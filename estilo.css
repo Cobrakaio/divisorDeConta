@@ -1,0 +1,31 @@
+h1 {
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px black;
+    text-align: center;
+    font: normal;
+}
+
+body {
+    background-color: aqua;
+}
+
+section {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 1px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+div{
+    text-align: left;
+    font:normal;
+}
+div#res{
+    text-align: center;
+    font:normal
+}
+footer{
+    text-align: center;
+    font:italic;
+}
